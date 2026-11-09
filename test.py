@@ -1,3 +1,1 @@
-Print("ABC")
-Print("VVCE")
-Print("Shiva")
+print("ABC")
